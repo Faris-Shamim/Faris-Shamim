@@ -25,6 +25,7 @@
 - Pandas
 - NumPy
 - Matplotlib
+- Streamlit
 - Git & GitHub
 
 ---
