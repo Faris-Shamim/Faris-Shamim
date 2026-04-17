@@ -34,6 +34,7 @@ Pandas · NumPy · Matplotlib · Streamlit · Git · GitHub · PostgreSQL · VS 
     [View repo](https://github.com/Faris-Shamim/paris-airbnb-analysis)
   
 
+
 🔹 ETL Pipeline *(in progress)*
 - Building an end-to-end pipeline to ingest, transform, and load a public dataset into a PostgreSQL database with Python.
 
